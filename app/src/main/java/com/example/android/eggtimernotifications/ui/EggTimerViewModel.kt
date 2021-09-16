@@ -114,7 +114,7 @@ class EggTimerViewModel(private val app: Application) : AndroidViewModel(app) {
             if (!it) {
                 _alarmOn.value = true
                 val selectedInterval = when (timerLengthSelection) {
-                    0 -> second * 4 //For testing only
+                    0 -> second * 8 //For testing only
                     else ->timerLengthOptions[timerLengthSelection] * minute
                 }
                 val triggerTime = SystemClock.elapsedRealtime() + selectedInterval
