@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708271459722",
+    "project_id": "kotline-notifications",
+    "storage_bucket": "kotline-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708271459722:android:c42d8203c09cef84920c73",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708271459722-edncolsta75u7p1lssfo1fbrcbsrqlvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViLtWuf5MiPNBTVStM79jmzCe0L4_Rgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708271459722-edncolsta75u7p1lssfo1fbrcbsrqlvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
